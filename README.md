@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe in C
+Terminal Tic-Tac-Toe in C
