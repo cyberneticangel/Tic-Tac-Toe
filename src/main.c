@@ -1,4 +1,3 @@
-#include <bits/types/struct_sigstack.h>
 #include <stdio.h>
 #include <stdbool.h>
 
